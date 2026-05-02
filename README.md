@@ -259,7 +259,7 @@ Before showing the work, check the following:
 - Reduce rapid triggering from the controller
 - Use softer speaker placement if the space is small
 
-##project images
+### Project Images
 <img width="1305" height="735" alt="截屏2026-04-27 03 55 51" src="https://github.com/user-attachments/assets/f931e22f-c922-47ae-8596-d11763aec43f" />
 <img width="1301" height="730" alt="截屏2026-04-27 03 56 15" src="https://github.com/user-attachments/assets/caa773f7-f65b-403c-aa2c-3aef45dffb05" />
 <img width="1305" height="733" alt="截屏2026-04-27 04 00 29" src="https://github.com/user-attachments/assets/ac7e8ff5-34af-45eb-bcb8-ec18c6cd48c1" />
