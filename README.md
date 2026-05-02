@@ -91,11 +91,9 @@ They are also useful during setup if the controller connection is unstable.
 
 This project uses:
 
-- TouchDesigner
-- Max/MSP
-- Game controller input
-- Point-cloud / PLY file
-- Audio output device or speakers
+   - TouchDesigner project file：urban building- world game.toe
+   - Max/MSP patch：Urban building GameController.maxpat
+   - Point-cloud / PLY model：mirror world.ply
 
 Optional / experimental:
 
@@ -108,11 +106,9 @@ Optional / experimental:
 
 2. Make sure the project folder contains the required assets, such as:
 
-   - TouchDesigner project file
-   - Max/MSP patch
-   - Point-cloud / PLY model
-   - Image or video texture assets
-   - Any required controller or input plugin files
+   - TouchDesigner project file：urban building- world game.toe
+   - Max/MSP patch：Urban building GameController.maxpat
+   - Point-cloud / PLY model：mirror world.ply
 
 3. Install TouchDesigner.
 
@@ -127,6 +123,7 @@ Optional / experimental:
 8. Open the TouchDesigner project file.
 
 9. Check that the point-cloud / PLY file path is correctly linked.
+<img width="1723" height="846" alt="ply- TD" src="https://github.com/user-attachments/assets/c44038ab-1f56-405c-9288-5a798a641825" />
 
 10. Open the Max/MSP patch.
 
@@ -262,23 +259,3 @@ Before showing the work, check the following:
 - Reduce rapid triggering from the controller
 - Use softer speaker placement if the space is small
 
-## Suggested Repository Structure
-
-```text
-Urban-Building/
-│
-├── TouchDesigner/
-│   └── UrbanBuilding.toe
-│
-├── MaxMSP/
-│   └── UrbanBuilding.maxpat
-│
-├── Assets/
-│   ├── pointcloud/
-│   ├── images/
-│   └── sound/
-│
-├── Documentation/
-│   └── screenshots/
-│
-└── README.md
