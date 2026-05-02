@@ -259,3 +259,18 @@ Before showing the work, check the following:
 - Reduce rapid triggering from the controller
 - Use softer speaker placement if the space is small
 
+##project images
+<img width="1305" height="735" alt="截屏2026-04-27 03 55 51" src="https://github.com/user-attachments/assets/f931e22f-c922-47ae-8596-d11763aec43f" />
+<img width="1301" height="730" alt="截屏2026-04-27 03 56 15" src="https://github.com/user-attachments/assets/caa773f7-f65b-403c-aa2c-3aef45dffb05" />
+<img width="1305" height="733" alt="截屏2026-04-27 04 00 29" src="https://github.com/user-attachments/assets/ac7e8ff5-34af-45eb-bcb8-ec18c6cd48c1" />
+<img width="1306" height="736" alt="截屏2026-04-27 04 03 52" src="https://github.com/user-attachments/assets/1821bacc-f970-4f3a-a974-10b362e75a6c" />
+<img width="1308" height="734" alt="截屏2026-04-27 03 38 25" src="https://github.com/user-attachments/assets/d66c7ee8-6f6f-47c4-b48a-fa85ffe43411" />
+<img width="1305" height="731" alt="截屏2026-04-27 03 39 27" src="https://github.com/user-attachments/assets/6127b9c6-03f4-485b-a955-15e03b09fad3" />
+<img width="1307" height="734" alt="截屏2026-04-27 03 40 26" src="https://github.com/user-attachments/assets/297e1072-fa4c-436e-b5ba-b770f8a2fb1a" />
+<img width="1306" height="735" alt="截屏2026-04-27 03 41 34" src="https://github.com/user-attachments/assets/a8a82412-d9b5-49de-87c2-eaa379670f89" />
+<img width="1307" height="733" alt="截屏2026-04-27 03 44 52" src="https://github.com/user-attachments/assets/d4aeae9d-4306-4c0d-be53-147405ced900" />
+<img width="1305" height="733" alt="截屏2026-04-27 03 41 49" src="https://github.com/user-attachments/assets/297bd46a-f0a5-423d-bd0a-58189fc4e28c" />
+<img width="1303" height="735" alt="截屏2026-04-27 03 48 09" src="https://github.com/user-attachments/assets/c6054b00-7fbe-4478-b006-36b73d90b4f6" />
+<img width="1305" height="736" alt="截屏2026-04-27 03 49 39" src="https://github.com/user-attachments/assets/c494a9a5-3744-45cc-8868-cf623ea79e21" />
+<img width="1303" height="734" alt="截屏2026-04-27 03 49 59" src="https://github.com/user-attachments/assets/f02c9fa5-35b6-4cec-9665-a174eaabfe25" />
+<img width="1304" height="734" alt="截屏2026-04-27 03 51 15" src="https://github.com/user-attachments/assets/3618eb3c-f7ef-4a10-9385-0156570315a6" />
